@@ -1,17 +1,15 @@
 <h1>Game Hub - Database</h1>
 
-![image](https://github.com/user-attachments/assets/9d2acfba-dd70-4b5e-8627-b2da889e7892)
+![image](https://github.com/user-attachments/assets/d7c016f8-3918-4c2e-9e91-09d8ee64341f)
 
-![CBC Todo Manager Architecture](https://github.com/user-attachments/assets/edf6f7fa-0415-46db-bf7f-92fda7c0d0a0)
+![game hub](https://github.com/user-attachments/assets/908dab0c-567e-4ba2-945e-770e3b5b5026)
 
 <h2>Interview project by Nathan Nav Moondi</h2>
 
 React, Typescript, Chakra UI, API, Azure
 
 <h2>URL</h2>
-https://cbc-ui-test.azurewebsites.net/
-<br/>
-https://cbc-api-test.azurewebsites.net/
+https://game-hub-two-henna.vercel.app/
 
 <h3>Steps</h3>
 git clone<br/>
@@ -20,7 +18,7 @@ npm run dev
 
 <h3>GitHub Actions</h3>
 
-There are Github actions to deploy automatically to azure.
+There are Github actions to deploy automatically to Azure and Vercel.
 Any changes results in: build, test, publish and deploy.
 
 You can git clone, change, commit and then see CI/CD process in realtime in Actions panel on github.

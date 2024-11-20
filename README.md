@@ -4,7 +4,7 @@ GameHub is a video game discovery web app that helps you find new and interestin
 
 This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
 
-## Getting Started
+## Getting Started test
 
 To get started with GameHub, follow these steps:
 

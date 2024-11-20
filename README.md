@@ -6,12 +6,11 @@
 
 <h2>Interview project by Nathan Nav Moondi</h2>
 
-React, Typescript, Chakra UI, API, Azure
+React, Typescript, Chakra UI, API, Vercel
 
 <h2>URL</h2>
-https://cbc-ui-test.azurewebsites.net/
-<br/>
-https://cbc-api-test.azurewebsites.net/
+https://game-hub-two-henna.vercel.app/
+
 
 <h3>Steps</h3>
 git clone<br/>
@@ -20,7 +19,7 @@ npm run dev
 
 <h3>GitHub Actions</h3>
 
-There are Github actions to deploy automatically to azure.
+There are Github actions to deploy automatically to Vercel.
 Any changes results in: build, test, publish and deploy.
 
 You can git clone, change, commit and then see CI/CD process in realtime in Actions panel on github.

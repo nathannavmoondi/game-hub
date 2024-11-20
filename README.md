@@ -2,7 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/d7c016f8-3918-4c2e-9e91-09d8ee64341f)
 
-![game hub](https://github.com/user-attachments/assets/908dab0c-567e-4ba2-945e-770e3b5b5026)
+![image](https://github.com/user-attachments/assets/da933fdc-3454-4007-989d-72b696ed0072)
+
 
 <h2>Interview project by Nathan Nav Moondi</h2>
 

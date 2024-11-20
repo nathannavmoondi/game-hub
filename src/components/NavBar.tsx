@@ -9,8 +9,9 @@ interface Props {
 
 const NavBar = ({ onSearch }: Props) => {
   return (
-    <HStack padding='10px'>
-      <Image src='https://static.vecteezy.com/system/resources/previews/017/744/677/non_2x/video-game-icon-png.png' boxSize='60px' />
+    <HStack padding='10px'>      
+      {/* <Image src='https://static.vecteezy.com/system/resources/previews/017/744/677/non_2x/video-game-icon-png.png' boxSize={'60px' as string} /> */}
+
       <span>Game Hub - Nathan Moondi</span>
       <SearchInput onSearch={onSearch} />
       <ColorModeSwitch />

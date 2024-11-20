@@ -1,37 +1,43 @@
-# GameHub
+<h1>CBC To Do Manager</h1>
 
-GameHub is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. 
+![image](https://github.com/user-attachments/assets/9d2acfba-dd70-4b5e-8627-b2da889e7892)
 
-This is the project we build in my Ultimate React course. You can find the full course at: https://codewithmosh.com 
+![CBC Todo Manager Architecture](https://github.com/user-attachments/assets/edf6f7fa-0415-46db-bf7f-92fda7c0d0a0)
 
-## Getting Started 
+<h2>Interview project by Nathan Nav Moondi</h2>
 
-To get started with GameHub, follow these steps:
+username: admin
+password: admin
 
+<h2>URL</h2>
+https://cbc-ui-test.azurewebsites.net/
+<br/>
+https://cbc-api-test.azurewebsites.net/
 
-1. Clone this repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first. 
-4. Add the API key to **src/services/api-client.ts**
-5. Run `npm run dev` to start the web server. 
+<h3>Steps</h3>
+git clone<br/>
+modify appsettings.development.json as needed
+run API and UI project together
 
-## About the Course 
+<h3>API Project</h3>
 
-I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
+url is: https://cbc-api-test.azurewebsites.net/
 
-- Build front-end apps with React and TypeScript
-- Build reusable function components
-- Style your components using vanilla CSS, CSS modules, and CSS-in-JS
-- Manage component state
-- Build forms with React Hook Forms
-- Implement form validation using Zod
-- Connect your React apps to the backend
-- Deploy your React apps
-- Use VSCode shortcuts to increase your productivity
-- Write clean code like a pro
-- Apply best practices
+to test: https://cbc-api-test.azurewebsites.net/test
 
+to login and get JWT token in postman:
+https://cbc-api-test.azurewebsites.net/login?username=admin&password=admin
 
-By the end of this course, you'll have a solid understanding of React and be able to build real-world applications with React and TypeScript.
+<h3>GitHub Actions</h3>
 
-You can find the full course at: https://codewithmosh.com 
+There are two Github actions to deploy API and UI automatically to azure.
+Any changes results in: build, test, publish and deploy.
+
+You can git clone, change, commit and then see CI/CD process in realtime in Actions panel on github.
+
+<h3>CBC Checklist for Developer Position</h3>
+
+https://docs.google.com/document/d/1y_bNaxqE2O-H8Kf0y9vygcNFQHe8vP1Yja_YvqiE404/edit?usp=sharing
+
+Thank you.
+Nathan

@@ -12,6 +12,7 @@ React, Typescript, Chakra UI, API, Vercel
 <h2>URL</h2>
 https://game-hub-two-henna.vercel.app/
 
+(azure) : https://game-hub-fwfth3gddabqg6d4.canadacentral-01.azurewebsites.net/
 
 <h3>Steps</h3>
 git clone<br/>
